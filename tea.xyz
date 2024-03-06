@@ -1,0 +1,9 @@
+{
+  "name": "@Phuctele/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@Phuctele",
+  "repository": "https://github.com/Phuctele/tea-xyz-quest",
+  "license": "ISC"
+}
